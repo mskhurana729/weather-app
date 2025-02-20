@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# files helping in project
+
+commitMessage
+plan
+problemSolvingSkills
