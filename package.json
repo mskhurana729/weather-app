@@ -31,5 +31,19 @@
     "webpack-dev-server": "^5.2.0",
     "webpack-merge": "^6.0.1",
     "xml-loader": "^1.2.1"
-  }
+  },
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "This will show weather for different cities",
+  "main": "webpack.common.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mskhurana729/weather-app.git"
+  },
+  "author": "Manpreet Singh Khurana <mskhurana729@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mskhurana729/weather-app/issues"
+  },
+  "homepage": "https://github.com/mskhurana729/weather-app#readme"
 }
